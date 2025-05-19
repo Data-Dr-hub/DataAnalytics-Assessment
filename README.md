@@ -157,6 +157,7 @@ I chose the column from the `users_customuser` because of the following reason:
 
 # Final Notes
 This solution demonstrates:
+
 🔹 Clean, Modular SQL: Readable CTEs with logical separation of concerns.
 
 🔹 Business Alignment: Metrics tailored to marketing’s CLV requirements.
